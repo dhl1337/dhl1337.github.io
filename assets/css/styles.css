@@ -1,0 +1,177 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+.title {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-weight: 900;
+    font-size: 35px;
+}
+#waitr {
+    background-color: #ecf0f1;
+    margin: 10px;
+}
+#forage {
+    background-color: #ecf0f1;
+    margin: 10px;
+}
+#favour {
+    background-color: #ecf0f1;
+    margin: 10px;
+}
+#menu {
+    border: none;
+    margin-bottom: 3%;
+    background-color: #1abc9c;
+    color: white;
+}
+#aboutHeader {
+    color: #1abc9c;
+    font-size: 45px;
+}
+#favourProHeader {
+    color: orange;
+    font-size: 45px;
+}
+.favourHeader {
+    color: orange;
+}
+.info {
+    font-size: 20px;
+}
+.workHeader {
+    font-size: 40px;
+}
+#favourImg {
+    padding-top: 15%;
+}
+#forageImg {
+    padding-top: 15%;
+}
+#welcome {
+    margin: 10px;
+    background-color: #ecf0f1;
+    color: #2c3e50;
+}
+.welcomeHeader {
+    font-size: 50px;
+    color: #1abc9c;
+}
+.ui.menu .header.item, .ui.vertical.menu .header.item {
+    margin-left: -20px;
+}
+.ui.menu .item {
+    color: white;
+}
+.intro {
+    padding-top: 7%;
+}
+.title {
+    color: white;
+}
+a {
+    color: #1abc9c;
+}
+a:hover {
+    color: black;
+}
+#servicesHeader {
+    color: #1abc9c;
+}
+#waitrProHeader {
+    color: orange;
+    font-size: 60px;
+}
+.waitrHeader {
+    color: orange;
+}
+.waitrSent, .favourSent, .forageSent {
+    font-size: 18px;
+}
+#forageProHeader {
+    font-size: 60px;
+    color: #FF4447;
+}
+.forageHeader {
+    color: #FF4447;
+}
+#forageBtn {
+    margin-top: 3%;
+    background-color: transparent;
+    border: 1px solid #FF4447;
+    color: #FF4447;
+    width: 45%;
+}
+#githubForageBtn {
+    width: 50%;
+    margin-top: 3%;
+    background-color: #FF4447;
+    color: white;
+}
+#waitrBtn, #favourBtn {
+    margin-top: 3%;
+    background-color: transparent;
+    border: 1px solid orange;
+    color: orange;
+}
+#githubBtn {
+    width: 50%;
+    margin-top: 3%;
+    background-color: orange;
+    color: white;
+}
+#rightBtn {
+    text-align: right;
+    float: right;
+    margin-top: 1%;
+
+}
+#leftButton {
+    background-color: transparent;
+    border: none;
+}
+#rightButton {
+    background-color: transparent;
+    border: none;
+}
+.buttons.footer {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.ui.labeled.icon.button > .icon  {
+    background-color: transparent;
+}
+.btnLeft, .btnRight {
+    margin-top: -3%;
+    font-size: 40px;
+}
+#moreInfobtn, #visitSitebtn {
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+#moreInfobtn:hover, #visitSitebtn:hover {
+    background-color: #1abc9c;
+    border: transparent;
+}
+.ui.menu a.item:hover {
+    color: #1abc9c;
+    background-color: white;
+    font-size: large;
+}
+.ui.inverted.header {
+    font-size: 50px;
+}
+#contactList{
+    text-align: center;
+}
+#contactList > a.item {
+    color: #1abc9c;
+    font-weight: 300;
+    font-size: 18px;
+}
+#contactList > a.item:hover {
+    font-weight: 600;
+    border-bottom: 4px solid black;
+}
