@@ -13,7 +13,7 @@
             .state('work', {
                 url: '/work',
                 templateUrl: '../app/components/work/work.html',
-                controller: 'workController'
+                controller: 'WorkController'
             })
             .state('waitr', {
                 url: '/waitr',
