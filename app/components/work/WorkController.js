@@ -2,9 +2,9 @@
     'use strict';
     angular
         .module('portfolioApp')
-        .controller('workController', workController);
+        .controller('WorkController', WorkController);
 
-    function workController() {
+    function WorkController() {
 
         $('.dimmable').dimmer({on: 'hover'});
 
